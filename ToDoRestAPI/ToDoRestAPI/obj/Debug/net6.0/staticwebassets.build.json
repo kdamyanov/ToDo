@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sFEQYBF5wpfQ22kI5V0BdU3dAcVBn0hpCq60GsZhXUE=",
+  "Source": "ToDoRestAPI",
+  "BasePath": "_content/ToDoRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
